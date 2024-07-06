@@ -62,7 +62,7 @@
 - [yejin826](https://github.com/yejin826)
 
 ## License
-MIT 라이센스
+
 라이센스에 대한 정보는 License.md 에 있습니다.
 
 

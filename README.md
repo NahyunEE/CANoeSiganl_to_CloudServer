@@ -1,10 +1,5 @@
 # CANoe Signal to Cloud
 
-<!--배지-->
-![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
-
-
-
 ## About the Project
 - This project is for Vehicle Communication Project
 - Relative Organizer are Hyundai Autoever, Hyundai NGV, RAPA
@@ -41,7 +36,7 @@
 
 
 
-# [3] Usage
+## Usage
 - First you have to make Cloud Server to AWS
 
 - After make Cloud , Get SERVER ip. ( example, 1.1.1.1 )
@@ -51,13 +46,13 @@
 - There are several functions for Server at Django. If you want to Manage Server more then this, Referece [Django](https://www.djangoproject.com/)
 
 
-# [4] Contribution
+## Contribution
 - 기여해주신 모든 분들께 감사드립니다.
 - Thank you for Contributing this project
 
 
 
-# [7] License
+##License
 MIT 라이센스
 라이센스에 대한 정보는 [`LICENSE`][license-url]에 있습니다.
 

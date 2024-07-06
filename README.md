@@ -23,7 +23,7 @@
 
 ## Configuration
 - System Architecture
-
+![systemar](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/62e2c86d-92a3-4246-9db7-5c4e450cfdf2)
 
 - Network Architecture
 
@@ -36,14 +36,7 @@
 
 
 
-## Usage
-- First you have to make Cloud Server to AWS
 
-- After make Cloud , Get SERVER ip. ( example, 1.1.1.1 )
-
-- Then edit Client/client.py code like below.
-
-- There are several functions for Server at Django. If you want to Manage Server more then this, Referece [Django](https://www.djangoproject.com/)
 
 
 ## Contribution

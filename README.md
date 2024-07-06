@@ -49,7 +49,7 @@
 ## Contribution
 - Vector Korea
 
-# Members ( Team : Automatix )
+## Members ( Team : Automatix )
 - [DongjinSun](https://github.com/DongjinSun)
 - [obsidian0402](https://github.com/obsidian0402)
 - [yejin826](https://github.com/yejin826)

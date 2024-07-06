@@ -5,9 +5,11 @@
 - Relative Organizer are Hyundai Autoever, Hyundai NGV, RAPA
 <br></br>
 
-<iframe width="943" height="479" src="https://www.youtube.com/embed/gK7qffP-1Zc" title="[현대오토에버 임베디드 스쿨 2기] HEV 차량 기반 클라우드 BMS 모니터링 시스템" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Demonstration
 
+[![시연 영상](https://img.youtube.com/vi/gK7qffP-1Zc/0.jpg)](https://www.youtube.com/watch?v=gK7qffP-1Zc)
 
+클릭하여 시연 영상을 시청할 수 있습니다.
 
 
 ## Features

@@ -23,7 +23,7 @@
 
 ## Configuration
 - System Architecture
-![systemar](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/e71f1de3-d1b2-4b3a-8325-96b8131768d2)
+
 
 - Network Architecture
 

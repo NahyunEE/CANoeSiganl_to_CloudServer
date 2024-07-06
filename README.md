@@ -21,29 +21,38 @@
 
 -[py_canoe](https://github.com/chaitu-ycr/py_canoe.git)
 
+
 ## Configuration
 - System Architecture
 <br></br>
 ![systemar](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/62e2c86d-92a3-4246-9db7-5c4e450cfdf2)
 
-- Network Architecture
-
+- CANoe HEV BMS Network Architecture
+<br></br>
+![canoear](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/98f7d3b5-aea5-4bc9-8b30-61b34b97ce23)
 
 - BMS Monitoring Architecture
-
-
+<br></br>
+![clienta](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/fa1ea4cc-09fe-4c61-8b0e-6e7b3f7baa60)
 
 - Server(Django) Architecture
+- <br></br>
+![아키텍쳐](https://github.com/NahyunEE/CANoeSiganl_to_CloudServer/assets/50420981/053480cb-5bbc-4d20-aaaa-0fc210c2100b)
 
 
 
+## Comment
+- 장고 플랫폼을 공부하신 후에 http 프로토콜로 서버에 전송하는 것일 수행하시는 것을 추천드립니다.
+- I recommend studying the Django framework and then proceeding to implement server-side communication using the HTTP protocol.
 
-
-
+  
 ## Contribution
-- 기여해주신 모든 분들께 감사드립니다.
-- Thank you for Contributing this project
+- Vector Korea
+- Hyundai Autoever
+- RAPA (Korea Radio Promotion Association )
+- Hyudai NGV
 
+# Members ( Team : Automatix )
 
 
 ## License
